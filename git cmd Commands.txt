@@ -1,0 +1,9 @@
+github : clone
+        git clone (Repository link)
+
+github : getting latest code
+        git pull
+        
+github : push
+        git commit -m "Comment"
+        git push
