@@ -13,6 +13,6 @@ git init                        //to make folder a git Repository
 git add --a                     //for add all files in staging area
 git add (File name)             //for addding a perticular file in staging area
 git commit -m "Comment"         //to make snapshot
-git log                         //for checking commits that has done
-rm -rf .git                     //to delete git Repository
+git log                         //for checking commits that have been done
+rm -rf .git                     //to delete git Repository //works in gitBash only
 
